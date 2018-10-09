@@ -81,7 +81,7 @@
             <div class="portfolio-items">
                 <div class="col-sm-6 col-md-4 other">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/Insider.png" title="Insider App" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank" href="img/portfolio/Insider.png" title="Insider App" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -94,7 +94,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 de">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/de.png" title="DE" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank"  href="img/portfolio/de.png" title="DE" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -107,7 +107,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 de">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/de-main.png" title="DE" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank"  href="img/portfolio/de-main.png" title="DE" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -120,7 +120,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 de">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/ditch-witch.png" title="DE" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank"  href="img/portfolio/ditch-witch.png" title="DE" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -133,7 +133,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 other">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/odu.png" title="odu" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank"  href="img/portfolio/odu.png" title="odu" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -146,7 +146,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 shgh">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/Shoghlanah.png" title="Shoghlanah Inc." data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank" href="img/portfolio/Shoghlanah.png" title="Shoghlanah Inc." data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 other">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/statistics.png" title="JavaScript Libraries" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank" href="img/portfolio/statistics.png" title="JavaScript Libraries" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -172,7 +172,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 other">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/Saludable.png" title="Saludable" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank" href="img/portfolio/Saludable.png" title="Saludable" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -185,7 +185,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 ti">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/ti.png" title="Project Title" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank" href="img/portfolio/ti.png" title="Project Title" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
@@ -198,7 +198,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4 other">
                     <div class="portfolio-item">
-                        <div class="hover-bg"> <a href="img/portfolio/connect4.jpeg" title="Connect Four" data-lightbox-gallery="gallery1">
+                        <div class="hover-bg"> <a target="_blank" href="img/portfolio/connect4.jpeg" title="Connect Four" data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
