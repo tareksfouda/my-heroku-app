@@ -213,6 +213,7 @@
         </div>
     </div>
 </div>
+
 <!-- Education Section -->
 <div id="education">
     <div class="container">
