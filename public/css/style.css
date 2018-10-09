@@ -150,6 +150,7 @@ ul.cat li {
 ol.type li {
 	display: inline-block;
 	margin-right: 20px;
+	margin-bottom: 44px;
 }
 ol.type li a {
 	font-family: 'Montserrat', sans-serif;
