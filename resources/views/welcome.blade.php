@@ -266,6 +266,15 @@
                                 <div class="count"><span>98%</span></div>
                             </div>
                         </div>
+
+                        <div class="skillbar" data-percent="98%">
+                                <div class="title head-sm">
+                                    Docker
+                                </div>
+                                <div class="count-bar" style="width: 98%;">
+                                    <div class="count"><span>75%</span></div>
+                                </div>
+                            </div>
                         <div class="skillbar" data-percent="91%">
                             <div class="title head-sm">
                                 Java
