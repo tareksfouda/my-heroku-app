@@ -360,17 +360,20 @@
             <div class="section-title">
                 <p>For inquiries or collaborations please contact me by email at <strong>tareksfouda@gmail.com</strong> or fill out the form below.</p>
             </div>
-            <form name="sentMessage" id="contactForm" novalidate>
+            <form method="POST" action="/mail" name="sentMessage" id="contactForm" novalidate>
+                {{--  @csrf  --}}
+                <meta name="csrf-token" content="{{ csrf_token() }}">
+
                 <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <input type="text" id="name" class="form-control" placeholder="Name" required="required">
+                            <input name="name" type="text" id="name" class="form-control" placeholder="Name" required="required">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <input type="email" id="email" class="form-control" placeholder="Email" required="required">
+                            <input name= "email" type="email" id="email" class="form-control" placeholder="Email" required="required">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
