@@ -352,9 +352,9 @@
         <h2>About Me</h2>
         <div class="col-md-6">
             <div class="section-title">
-                <div class="row"> <img src="img/about.png" class="img-responsive pull-left" alt="">
-                    <p>Raised in Cairo, Egypt. I moved to Germany and went to Stuttgart University where I got my bachelors degree in Computer Engineering. After that I came to the states and continued my Master's degree at Old Dominion University and graduated May, 2017. I've always been into programming and coding in general, always been able to attended hackathons and ACM conferences. </p>
-                    <p>In fact, Just came back from WAVE PHP conference in SanDiego. I love soccer and used to play it professionally but decided to give up on it for education because I could not do both. I love traveling and meeting new people with different cultures and backgrounds. My hobbies include horse riding as well due to the fact that pretty much every Egyptian gets trained to ride horses since early ages..</p>
+                <div class="row"> <img src="img/tarek-red.png" class="img-responsive pull-left" alt="">
+                    <p>Raised in Cairo, Egypt. I moved to Germany and went to Stuttgart University where I got my bachelors degree in Computer Engineering. After that I came to the states and continued my Master's degree at Old Dominion University and graduated May, 2017. I've always been into programming and coding in general, always been able to attend hackathons and ACM conferences. </p>
+                    <p>In fact, Just came back from WAVE PHP, 2018 conference in SanDiego. I love soccer and used to play it professionally but decided to give up on it for education because I could not do both. I love traveling and meeting new people with different cultures and backgrounds. My hobbies include horse riding as well due to the fact that pretty much every Egyptian gets trained to ride horses since early ages..</p>
                     <div class="social">
                         <ul>
                             <li><a href="https://facebook.com/tarek.samy.fouda"><i class="fa fa-facebook"></i></a></li>
