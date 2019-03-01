@@ -30,8 +30,7 @@
 
     <link rel=”stylesheet” id=”font-awesome-css” href=”//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css” type=”text/css” media=”screen”>
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -86,7 +85,7 @@
                                 <div class="hover-text">
                                     <div class="overlay-caption">
                                         <div class="overlay-content">
-                                            <h4>German University's newspaper</h4>
+                                            <h4>German Universitys newspaper</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -197,6 +196,21 @@
                                 <img src="img/portfolio/ti.png" class="img-responsive" alt="Project Title"> </a> </div>
                     </div>
                 </div>
+
+                <div class="col-sm-6 col-md-4 ti">
+                        <div class="portfolio-item">
+                            <div class="hover-bg"> <a target="_blank" href="img/portfolio/cws-platform.png" title="Project Title" data-lightbox-gallery="gallery1">
+                                    <div class="hover-text">
+                                        <div class="overlay-caption">
+                                            <div class="overlay-content">
+                                                <h4>Dealer Inventory ManagmentPlatform</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <img src="img/portfolio/cws-platform.png" class="img-responsive" alt="Project Title"> </a> </div>
+                        </div>
+                    </div>
+
                 <div class="col-sm-6 col-md-4 other">
                     <div class="portfolio-item">
                         <div class="hover-bg"> <a target="_blank" href="img/portfolio/connect4.jpeg" title="Connect Four" data-lightbox-gallery="gallery1">
