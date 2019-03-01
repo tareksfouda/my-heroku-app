@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Tarek Fouda, a Software Engineer</title>
     <meta name="description" content="">
@@ -213,7 +214,9 @@
         </div>
     </div>
 </div>
-
+<div id="app">
+    <example-component></example-component>
+</div>
 <!-- Education Section -->
 <div id="education">
     <div class="container">
@@ -462,6 +465,8 @@
         <p>&copy; 2018 Tarek Fouda. All rights reserved.</p>
     </div>
 </div>
+<script src="{{ asset('js/app.js') }}"></script>
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.1.11.1.js"></script>
 <script src="/js/jquery.appear.js" type="text/javascript"></script>
@@ -472,6 +477,5 @@
 <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
 <script type="text/javascript" src="js/contact_me.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
-
 </body>
 </html>

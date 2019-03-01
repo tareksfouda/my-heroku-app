@@ -18,6 +18,13 @@
     export default {
         mounted() {
             console.log('Component mounted.')
-        }
+        },
+        data() {
+            return {
+                resident: 'test',
+                loading: false,
+                msg: ''
+            }
+        },
     }
 </script>
