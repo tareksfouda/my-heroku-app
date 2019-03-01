@@ -21,7 +21,7 @@
         },
         data() {
             return {
-                resident: 'test',
+                resident: 'test new',
                 loading: false,
                 msg: ''
             }
