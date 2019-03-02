@@ -252,7 +252,7 @@
                 <h3 class="display-3">Master's in Computer Science</h3>
 
                 <img style="width: 20%; float: right;" src="img/odu-logo.png" class="img-responsive" alt="Project Title">
-                <p>Took extensive classes in web programming, Artificial Intelligence and Cloud Computing. Along with dealing with several frontend frameworks such as Vue.js, Angular.js, D3.js and bootstrap.</p>
+                <p>Took extensive classes in web programming, Artificial Intelligence, PL/SQL, API development, TDD and Cloud Computing. Along with dealing with several frontend frameworks such as Vue.js, Angular.js, D3.js and bootstrap.</p>
                 <p><a class="btn btn-primary btn-lg" href="https://www.odu.edu/" role="button">Visit Website &raquo;</a></p>
             </div>
         </div>
