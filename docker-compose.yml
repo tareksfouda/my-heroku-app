@@ -10,7 +10,7 @@ services:
     volumes:
       - ./:/var/www
     environment:
-      - "DB_PORT=3306"
+      - "DB_PORT=3307"
       - "DB_HOST=database"
 
   # The Web Server
@@ -35,7 +35,7 @@ services:
       - "MYSQL_PASSWORD=secret"
       - "MYSQL_ROOT_PASSWORD=secret"
     ports:
-        - "3306:3306"
+        - "3307:3307"
 
 volumes:
   dbdata:

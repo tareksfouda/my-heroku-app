@@ -374,7 +374,6 @@
                     <p>In fact, Just came back from WAVE PHP, 2018 conference in SanDiego. I love soccer and used to play it professionally but decided to give up on it for education because I could not do both. I love traveling and meeting new people with different cultures and backgrounds.</p>
                     <div class="social">
                         <ul>
-                            <li><a href="https://facebook.com/tarek.samy.fouda"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/tareksfouda"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.linkedin.com/in/tarek-fouda/"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
